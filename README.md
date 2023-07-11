@@ -23,7 +23,7 @@
 | 19  | yes  |  yes  |
 | 20  | yes  |  yes  |
 | 21  | yes  |   -   |
-| 22  | yes- |  no   |
+| 22  | yes  |  no   |
 | 23  | yes  |  no   |
 | 24  | yes  |  yes  |
 | 25  | yes  |  no   |
