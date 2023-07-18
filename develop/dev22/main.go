@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"l1_wb/task_22/long"
+	"l1_wb/develop/dev22/long"
 )
 
 /*

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"sync"
 
-	"l1_wb/task_7/sync_map"
+	"l1_wb/develop/dev07/sync_map"
 )
 
 /*
@@ -40,7 +40,7 @@ func main() {
 	val, _ := sm.Get(key)
 	fmt.Printf("Value is %d\n", val)
 	fmt.Println("It is ok, because we get value and set it in two steps...")
-	fmt.Println("And is is ok, because we don't get panics like this:")
+	fmt.Println("And it is ok, because we don't get panics like this:")
 	fmt.Println("fatal error: concurrent map writes")
 	fmt.Println("fatal error: concurrent map read and map write")
 }

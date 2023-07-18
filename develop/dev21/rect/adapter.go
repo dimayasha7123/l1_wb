@@ -3,7 +3,7 @@ package rect
 import (
 	"math"
 
-	"l1_wb/task_21/interfaces"
+	"l1_wb/develop/dev21/interfaces"
 )
 
 type CanvasAdapter struct {

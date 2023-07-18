@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"l1_wb/task_11/generic_set"
+	"l1_wb/develop/dev11/generic_set"
 )
 
 /*

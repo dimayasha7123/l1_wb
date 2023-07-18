@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"l1_wb/task_24/geometry"
+	"l1_wb/develop/dev24/geometry"
 )
 
 /*

@@ -3,7 +3,7 @@ package canvas
 import (
 	"math"
 
-	"l1_wb/task_21/interfaces"
+	"l1_wb/develop/dev21/interfaces"
 )
 
 // имеет начальную точку в левом верхнем углу

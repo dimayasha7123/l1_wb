@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"sync"
 
-	"l1_wb/task_18/counter"
+	"l1_wb/develop/dev18/counter"
 )
 
 /*

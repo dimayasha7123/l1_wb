@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"l1_wb/task_12/string_set"
+	"l1_wb/develop/dev12/string_set"
 )
 
 /*

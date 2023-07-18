@@ -3,10 +3,10 @@ package main
 import (
 	"fmt"
 
-	"l1_wb/task_21/canvas"
-	"l1_wb/task_21/dot"
-	"l1_wb/task_21/interfaces"
-	"l1_wb/task_21/rect"
+	"l1_wb/develop/dev21/canvas"
+	"l1_wb/develop/dev21/dot"
+	"l1_wb/develop/dev21/interfaces"
+	"l1_wb/develop/dev21/rect"
 )
 
 /*
